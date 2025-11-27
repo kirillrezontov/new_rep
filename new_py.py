@@ -1,1 +1,1 @@
-print("branch1 commit 2")
+print("branch 1 and 2 merged")
